@@ -1,0 +1,8 @@
+{
+  "name": "mini_dsprites",
+  "shape": "[0,1,2]",
+  "scale": "[0,1,2]",
+  "orien": "1",
+  "xposi": "4",
+  "yposi": "4"
+}
