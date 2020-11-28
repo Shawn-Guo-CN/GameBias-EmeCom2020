@@ -1,0 +1,7 @@
+torch>=1.1.0
+torchvision
+scipy
+numpy
+pytest
+editdistance
+dataclasses
