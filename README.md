@@ -3,17 +3,16 @@
 ## 1. Installation
 
 ```bash
-# start by installing Slowika/EGG_research 
-git clone https://github.com/Slowika/EGG_research;
-cd EGG_research;
+# 1. create a virtual environment for the repo
 python3 -m venv venv;
 source venv/bin/activate;
+# 2. install the editdistance package for EGG_research module
 pip install wheel editdistance;
-pip install .;
-# then install Shawn-Guo-CN/GameBias
-cd ..;
-git clone https://github.com/Shawn-Guo-CN/GameBias;
-cd GameBias;
+# 3. install lib/EGG_research
+cd lib/EGG_research;
+pip install .
+# 4. install other dependencies
+cd ../../
 pip install -r requirements.txt;
 ```
 
