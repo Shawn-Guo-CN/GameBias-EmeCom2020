@@ -33,3 +33,26 @@ cd ..
 python analysis
 
 ```
+## 3. Reference
+
+If you find the code useful, please cite our [paper](https://arxiv.org/abs/2012.02875) presented at the [4th NeurIPS Workshop on Emergent Communication: Talking to Strangers: Zero-Shot Emergent Communication](https://sites.google.com/view/emecom2020/home):
+
+```
+@article{DBLP:journals/corr/abs-2012-02875,
+  author    = {Shangmin Guo and
+               Yi Ren and
+               Agnieszka Slowik and
+               Kory W. Mathewson},
+  title     = {Inductive Bias and Language Expressivity in Emergent Communication},
+  journal   = {CoRR},
+  volume    = {abs/2012.02875},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2012.02875},
+  eprinttype = {arXiv},
+  eprint    = {2012.02875},
+  timestamp = {Fri, 17 Dec 2021 11:39:29 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2012-02875.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
